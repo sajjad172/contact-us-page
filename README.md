@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,7 +7,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-{
+* {
   box-sizing: border-box;
 }
 
@@ -77,10 +77,11 @@ input[type=submit]:hover {
       <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" style="width:100%">
     </div>
     <div class="column">
-      <form action="/action_page.php">
+    <form action=”mailto:jaafars2252@student.sanjuan.edu”>
+      
         <label for="fname"> Name</label>
         <input type="text" id="fname" name="Name" placeholder="Your name...">
-   
+       
         <label for="lsname">Email</label>
         <input type="text" id="lsname" name="Email" placeholder="Your email...">
         <label for="country">Country</label>
@@ -90,8 +91,8 @@ input[type=submit]:hover {
           <option value="usa">Australia</option>
           <option value="usa">Europe</option>
         </select>
-        <label for="subject">Subject</label>
-        <textarea id="subject" name="subject" placeholder="Write us..." style="height:170px"></textarea>
+        <label for="subject">Message</label>
+        <textarea id="subject" name="Subject" placeholder="Write us..." style="height:170px"></textarea>
         <input type="submit" value="Submit">
       </form>
     </div>
@@ -100,4 +101,3 @@ input[type=submit]:hover {
 
 </body>
 </html>
-
