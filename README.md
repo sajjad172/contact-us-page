@@ -56,7 +56,7 @@ input[type=submit]:hover {
 }
 
 @media screen and (max-width: 600px) {
-  .column, input[type=submit] {
+  .column, input[type=submit]{
     width: 100%;
     margin-top: 0;
   }
@@ -77,7 +77,7 @@ input[type=submit]:hover {
       <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" style="width:100%">
     </div>
     <div class="column">
-      <form action="/action_page.php">
+      <form action="http://programminghead.com">
         <label for="fname"> Name</label>
         <input type="text" id="fname" name="Name" placeholder="Your name...">
        
@@ -93,24 +93,6 @@ input[type=submit]:hover {
         <label for="subject">Message</label>
         <textarea id="subject" name="Subject" placeholder="Write us..." style="height:170px"></textarea>
         <input type="submit" value="Submit">
-        </div>
-  <div class="row">
-    <div class="column">
-      <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" style="width:100%">
-    </div>
-    <div class="column">
- 
-    <html>
-    
-    <body> 
-    
-     <a href="http://programminghead.com">
-      <input type="submit"/>
-     </a>
-    
-    </body>
-    
-  </html>
       </form>
     </div>
   </div>
