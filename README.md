@@ -186,9 +186,8 @@ input[type=submit]:hover {
           <option value="usa">Australia</option>
           <option value="usa">Europe</option>
         </select>
-        <label for="subject">Message</label>
-        <input type="text" "submit" id="subject" name="Subject" placeholder="Write us..."required value="Submit">
-        </div>
+        <label for="lsname">Subject</label>
+        <input type="text" id="Subject" name="Subject"  placeholder="Write us..." required>
       </form>
     </div>
   </div>
