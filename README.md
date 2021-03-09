@@ -1,4 +1,3 @@
-<!<!DOCTYPE html>
 <html>
 <html lang="en">
 <head>
@@ -133,7 +132,7 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  background-color: white;
+  background-color: pink;
   padding: 10px;
 }
 
@@ -188,9 +187,9 @@ input[type=submit]:hover {
           <option value="usa">Australia</option>
           <option value="usa">Europe</option>
         </select>
-       <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-     <input type="submit" value="Submit">
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write us..."required style="height:170px"></textarea>
+<input type="submit" value="Submit">
       </form>
     </div>
   </div>
