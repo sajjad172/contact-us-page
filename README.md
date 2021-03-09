@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <html lang="en">
 <head>
@@ -166,7 +165,7 @@ input[type=submit]:hover {
 <div class="container">
   <div style="text-align:center"><br>
     <h2 style="color:blue ;">Contact US</h2>
-    <p><em><strong>Have a concern about the website or want to give feedback:</p></strong></em>
+    <p><em><strong>Have a concern about the website or want to give feedback:</strong></em></p>
   <div class="row">
     <div class="column">
       <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/22.png" style="width:100%">
