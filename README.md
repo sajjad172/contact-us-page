@@ -20,7 +20,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: pink ;
+  background-color: white ;
 }
 
 
@@ -66,7 +66,7 @@ body {
 .main {   
   -ms-flex: 70%; 
   flex: 70%;
-  background-color: pink;
+  background-color: white;
   padding: 20px;
 }
 
@@ -95,7 +95,6 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -133,7 +132,7 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  background-color: pink;
+  background-color: white;
   padding: 10px;
 }
 
@@ -167,8 +166,7 @@ input[type=submit]:hover {
 <div class="container">
   <div style="text-align:center"><br>
     <h2 style="color:blue ;">Contact US</h2>
-    <p><em><strong>Have a concern about the website or want to give feedback:</em></strong></p>
-  </div>
+    <p><em><strong>Have a concern about the website or want to give feedback:</p></em></strong>
   <div class="row">
     <div class="column">
       <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/22.png" style="width:100%">
@@ -196,7 +194,6 @@ input[type=submit]:hover {
   </div>
 </div>
 
-</body>
-</html>
+
 
 
