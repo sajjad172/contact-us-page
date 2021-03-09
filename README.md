@@ -176,7 +176,7 @@ input[type=submit]:hover {
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
         <label for="fname"> Name</label>
         <input type="text" id="fname" name="Name" placeholder="Your name..." required>
-       
+       <textarea id="subject" name="Subject" placeholder="Write us..."required style="height:50px"></textarea>
 <label for="lsname">Email</label>
         <input type="text" id="lsname" name="Email"  placeholder="Your email..." required>
         <label for="country">Country</label>
