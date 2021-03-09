@@ -28,7 +28,7 @@ body {
   display: block;
   color: red;
   text-align: center;
-  padding: 10px 45px;
+  padding: 10px 51.6px;
   text-decoration:  none;
   background-color:black
 }
@@ -65,7 +65,7 @@ body {
 .main {   
   -ms-flex: 70%; 
   flex: 70%;
-  background-color: white;
+  background-color: pink;
   padding: 20px;
 }
 
@@ -94,6 +94,7 @@ img {
   margin-right: auto;
 }
 </style>
+</head>
 <body>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -165,8 +166,8 @@ input[type=submit]:hover {
 <div class="container">
   <div style="text-align:center"><br>
     <h2 style="color:blue ;">Contact US</h2>
-    <p><em><strong>Have a concern about the website or want to give feedback:</p></strong></em>
-  
+    <p><em><strong>Have a concern about the website or want to give feedback:</em></strong></p>
+  </div>
   <div class="row">
     <div class="column">
       <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/22.png" style="width:100%">
@@ -176,8 +177,8 @@ input[type=submit]:hover {
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
         <label for="fname"> Name</label>
         <input type="text" id="fname" name="Name" placeholder="Your name..." required>
-       <textarea id="subject" name="Subject" placeholder="Write us..."required style="height:50px"></textarea>
-<label for="lsname">Email</label>
+       
+        <label for="lsname">Email</label>
         <input type="text" id="lsname" name="Email"  placeholder="Your email..." required>
         <label for="country">Country</label>
         <select id="country" name="country">
@@ -187,12 +188,16 @@ input[type=submit]:hover {
           <option value="usa">Europe</option>
         </select>
         <label for="subject">Message</label>
-       <label for="subject">Message</label>
-            
-<textarea id="subject" name="Subject" placeholder="Write us..."required style="height:50px"></textarea>
+        <textarea id="subject" name="Subject" placeholder="Write us..."required style="height:170px"></textarea>
         <input type="submit" value="Submit">
-    </form>
+      </form>
+    </div>
   </div>
+</div>
+
+</body>
+</html>
+
 
 
 
