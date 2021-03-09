@@ -192,9 +192,6 @@ input[type=submit]:hover {
       </form>
     </div>
   </div>
-</div>
 
-</body>
-</html>
 
 
