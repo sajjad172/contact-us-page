@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <html lang="en">
 <head>
@@ -29,7 +28,7 @@ body {
   display: block;
   color: red;
   text-align: center;
-  padding: 10px 51.6px;
+  padding: 10px 45px;
   text-decoration:  none;
   background-color:black
 }
@@ -66,7 +65,7 @@ body {
 .main {   
   -ms-flex: 70%; 
   flex: 70%;
-  background-color: pink;
+  background-color: white;
   padding: 20px;
 }
 
@@ -95,7 +94,6 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -179,7 +177,7 @@ input[type=submit]:hover {
         <label for="fname"> Name</label>
         <input type="text" id="fname" name="Name" placeholder="Your name..." required>
        
-        <label for="lsname">Email</label>
+<label for="lsname">Email</label>
         <input type="text" id="lsname" name="Email"  placeholder="Your email..." required>
         <label for="country">Country</label>
         <select id="country" name="country">
