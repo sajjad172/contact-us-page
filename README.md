@@ -188,6 +188,7 @@ input[type=submit]:hover {
         </select>
         <label for="subject">Message</label>
         <input type="text" "submit" id="subject" name="Subject" placeholder="Write us..."required value="Submit">
+        </div>
       </form>
     </div>
   </div>
