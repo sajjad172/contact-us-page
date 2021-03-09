@@ -56,7 +56,7 @@ body {
 .side {
   -ms-flex: 30%; 
   flex: 30%;
-  background-color: none;
+  background-color: black;
   padding: 20px;
 }
 
