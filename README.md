@@ -179,7 +179,6 @@ input[type=submit]:hover {
         <label for="fname"> Name</label>
         <input type="text" id="fname" name="Name" placeholder="Your name..." required>
        
-<<<<<<< HEAD
    <label for="lsname">Email</label>
          <input type="text" id="lsname" name="Email"  placeholder="Your email..." required>
         <label for="country">Country</label>
@@ -193,33 +192,9 @@ input[type=submit]:hover {
 <input type="submit"df
         value="Submit">
           </form>
-=======
-        <label for="lsname">Email</label>
-        <input type="text" id="lsname" name="Email"  placeholder="Your email..." required>
-        <label for="country">Country</label>
-        <select id="country" name="country">
-          <option value="australia">USA</option>
-          <option value="canada">Canada</option>
-          <option value="usa">Australia</option>
-          <option value="usa">Europe</option>
-        </select>
-        <label for="subject">Message</label>
-        <textarea id="subject" name="Subject" placeholder="Write us..."required style="height:170px"></textarea>
-        <input type="submit" value="Submit">
-      </form>
->>>>>>> a8ec7cc041895eda2de4a15ed46032e37a293b37
     </div>
   </div>
 </div>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
