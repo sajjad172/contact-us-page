@@ -103,8 +103,11 @@ body {
 }
 
 * {
-  box-sizing: border-box;
+border: 0;
+padding: 0;
+margin: 0;
 }
+
 
 
 input[type=text], select, textarea {
