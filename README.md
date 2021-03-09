@@ -187,8 +187,7 @@ input[type=submit]:hover {
           <option value="usa">Europe</option>
         </select>
         <label for="subject">Message</label>
-        <textarea id="subject" name="Subject" placeholder="Write us..."required style></textarea>
-        <input type="submit" id="subject"value="Submit">
+        <input type="text" "submit" id="subject" name="Subject" placeholder="Write us..."required value="Submit">
       </form>
     </div>
   </div>
