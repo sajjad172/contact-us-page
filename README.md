@@ -165,7 +165,7 @@ input[type=submit]:hover {
 <div class="container">
   <div style="text-align:center"><br>
     <h2 style="color:blue ;">Contact US</h2>
-    <p><em><strong>Have a concern about the website or want to give feedback:</p></em></strong>
+    <p><em><strong>Have a concern about the website or want to give feedback:</p></strong></em>
   
   <div class="row">
     <div class="column">
