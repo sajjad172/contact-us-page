@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <html lang="en">
 <head>
@@ -178,7 +179,7 @@ input[type=submit]:hover {
         <label for="fname"> Name</label>
         <input type="text" id="fname" name="Name" placeholder="Your name..." required>
        
-<label for="lsname">Email</label>
+        <label for="lsname">Email</label>
         <input type="text" id="lsname" name="Email"  placeholder="Your email..." required>
         <label for="country">Country</label>
         <select id="country" name="country">
@@ -187,9 +188,9 @@ input[type=submit]:hover {
           <option value="usa">Australia</option>
           <option value="usa">Europe</option>
         </select>
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write us..."required style="height:170px"></textarea>
-<input type="submit" value="Submit">
+        <label for="subject">Message</label>
+    <textarea id="subject" name="subject" placeholder="Write us..." style="height:200px" required></textarea>
+     <input type="submit" value="Submit">
       </form>
     </div>
   </div>
