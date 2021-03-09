@@ -189,10 +189,9 @@ input[type=submit]:hover {
         <label for="subject">Message</label>
        <label for="subject">Message</label>
             
-            <textarea id="subject" name="Subject" placeholder="Write us..."required style="height:170px"></textarea>
+<textarea id="subject" name="Subject" placeholder="Write us..."required style="height:50px"></textarea>
         <input type="submit" value="Submit">
-      </form>
-    </div>
+    </form>
   </div>
 
 
