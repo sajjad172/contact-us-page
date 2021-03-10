@@ -12,15 +12,14 @@ body {
 }
 
 
- 
-
-
-
-
-.navbar {
+ .navbar {
   overflow: hidden;
-  background-color: black ;
+  background-color:black ;
 }
+
+
+
+
 
 
 .navbar a {
@@ -28,10 +27,11 @@ body {
   display: block;
   color: red;
   text-align: center;
-  padding: 10px 51.6px;
+  padding: 10px 50.6px;
   text-decoration:  none;
   background-color:black
 }
+
 
 
 .navbar a.right {
@@ -192,6 +192,7 @@ input[type=submit]:hover {
       </form>
     </div>
   </div>
+
 
 
 
