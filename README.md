@@ -169,7 +169,7 @@ input[type=submit]:hover {
     <p><em><strong>Have a concern about the website or want to give feedback:</strong></em></p>
   <div class="row">
     <div class="column">
-      <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/22.png" style="width:100%">
+      <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/A2AA80C7-0004-4447-A465-010C641E91EE%20(2).jpg"  style="width:100%">
     </div>
     <div class="column">
        <form action="https://formspree.io/f/mdopqkdk" method="POST">
@@ -192,10 +192,6 @@ input[type=submit]:hover {
       </form>
     </div>
   </div>
-
-
-
-
 
 
 
