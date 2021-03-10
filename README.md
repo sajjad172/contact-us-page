@@ -85,7 +85,7 @@ body {
   <a href="https://sajjad172.github.io/homepage.networx/">Home</a>
   <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
   <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
-  <a href="https://sajjad172.github.io/artworx.page/">Artworx Page</a>
+  <a href="https://sajjad172.github.io/artworx.page/" class="right" class="center">Artworx Page</a>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
@@ -102,12 +102,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-* {
-border: 0;
-padding: 0;
-margin: 0;
-}
 
+* {
+  box-sizing: border-box;
+}
 
 
 input[type=text], select, textarea {
@@ -134,7 +132,7 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  background-color: white;
+  background-color: pink;
   padding: 10px;
 }
 
@@ -168,7 +166,8 @@ input[type=submit]:hover {
 <div class="container">
   <div style="text-align:center"><br>
     <h2 style="color:blue ;">Contact US</h2>
-    <p><em><strong>Have a concern about the website or want to give feedback:</strong></em></p>
+    <p><em><strong>Have a concern about the website or want to give feedback:</em></strong></p>
+  </div>
   <div class="row">
     <div class="column">
       <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/22.png" style="width:100%">
@@ -194,6 +193,11 @@ input[type=submit]:hover {
       </form>
     </div>
   </div>
+
+
+
+
+
 
 
 
