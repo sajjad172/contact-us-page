@@ -65,7 +65,7 @@ body {
 .main {   
   -ms-flex: 70%; 
   flex: 70%;
-  background-color: white;
+  background-color: pink;
   padding: 20px;
 }
 
