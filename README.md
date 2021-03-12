@@ -84,7 +84,8 @@ body {
   <a href="https://sajjad172.github.io/homepage.networx/">Home</a>
   <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
   <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
-  <a href="https://sajjad172.github.io/artworx.page/" class="right" class="center">Artworx Page</a>
+  <a href="https://sajjad172.github.io/artworx.page/">Artworx Page</a>
+   <a href="https://sajjad172.github.io/sumbit.art/" class="right" class="center">Submit your Art!</a>
   </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -181,10 +182,10 @@ input[type=submit]:hover {
         <input type="text" id="lsname" name="Email"  placeholder="Your email..." required>
         <label for="country">Country</label>
         <select id="country" name="country">
-          <option value="australia">USA</option>
+          <option value="usa">USA</option>
           <option value="canada">Canada</option>
-          <option value="usa">Australia</option>
-          <option value="usa">Europe</option>
+          <option value="australia">Australia</option>
+          <option value="europe">Europe</option>
         </select>
         <label for="subject">Message</label>
     <textarea id="subject" name="subject" placeholder="Write us..." style="height:200px" required></textarea>
@@ -192,6 +193,8 @@ input[type=submit]:hover {
       </form>
     </div>
   </div>
+
+
 
 
 
